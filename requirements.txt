@@ -1,0 +1,5 @@
+# Usage: pip install -r requirements.txt
+
+ultralytics
+pyqt5
+pyqt5-tools
