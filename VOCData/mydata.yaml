@@ -1,0 +1,9 @@
+path: E:\work3\VegetablesFruits Detection\VOCData
+train: E:/work3/VegetablesFruits Detection/VOCData/ImageSets/train.txt
+val: E:/work3/VegetablesFruits Detection/VOCData/ImageSets/val.txt
+
+nc: 27   #类别
+
+# class names
+names: ['黑葡萄', '绿葡萄', '樱桃', '西瓜', '龙眼', '香蕉', '芒果', '菠萝', '柚子', '草莓', '苹果', '柑橘', '火龙果', '梨子', '花生', '黄瓜', '土豆', '大蒜', '茄子', '白萝卜', '辣椒', '胡萝卜', '花菜', '白菜', '番茄', '西蓝花', '橙子']
+
